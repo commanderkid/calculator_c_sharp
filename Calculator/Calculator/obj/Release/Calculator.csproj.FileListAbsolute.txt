@@ -1,0 +1,8 @@
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
